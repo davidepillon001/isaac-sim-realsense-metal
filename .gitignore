@@ -1,0 +1,26 @@
+# rendered scenes and downloaded datasets (tens of GB)
+data/
+logs/
+logs_analysis.txt
+.venv/
+*.npy
+*.npz
+!results/depth_metrics/error_samples_px.npz
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# LaTeX sources and build files: only the PDF and the figures are published
+report/*.tex
+report/*.cls
+report/*.bib
+report/*.aux
+report/*.bbl
+report/*.blg
+report/*.log
+report/*.out
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
+*.zip

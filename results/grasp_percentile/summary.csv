@@ -1,0 +1,17 @@
+model,finish,n,success_pct
+empirical_disparity,anodized,563,68.02841918294848
+empirical_disparity,polished,512,65.4296875
+empirical_metric,anodized,563,80.46181172291297
+empirical_metric,polished,512,91.796875
+gaussian,anodized,563,100.0
+gaussian,polished,512,100.0
+heuristic,anodized,563,100.0
+heuristic,polished,512,92.3828125
+ideal,anodized,563,100.0
+ideal,polished,512,100.0
+stereo,anodized,563,99.82238010657194
+stereo,polished,512,85.15625
+stereo_hdr,anodized,563,99.64476021314387
+stereo_hdr,polished,512,82.421875
+stereo_sgbm_strict,anodized,563,100.0
+stereo_sgbm_strict,polished,512,76.953125

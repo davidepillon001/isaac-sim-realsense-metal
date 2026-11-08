@@ -1,0 +1,5 @@
+variant,model,finish,real,bins,mae_holes_pt,mae_wrong_pt,mae_total_pt
+"metallic 1.0, roughness 0.30",stereo,anodized,real ROBI Zigzag,6,11.164854855396891,5.210176405944574,8.187515630670733
+"metallic 1.0, roughness 0.45 (main)",stereo,anodized,real ROBI Zigzag,6,10.905428875259096,7.8330029693817655,9.36921592232043
+"metallic 0.7, roughness 0.45",stereo,anodized,real ROBI Zigzag,6,11.461285900880952,8.913693287383765,10.187489594132357
+"metallic 1.0, roughness 0.20",stereo,anodized,real ROBI Zigzag,6,16.839330862571142,6.707977957439721,11.773654410005433

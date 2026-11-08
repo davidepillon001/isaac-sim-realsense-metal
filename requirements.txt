@@ -1,0 +1,18 @@
+# core: depth models, metrics, grasp experiment, statistics, figures
+numpy>=1.26
+scipy>=1.11
+pandas>=2.1
+opencv-python>=4.8
+numba>=0.59
+matplotlib>=3.8
+statsmodels>=0.14
+
+# XYZ-IBD: reference depth by ray casting the CAD models (experiments using --xyzibd)
+open3d>=0.18
+
+# segmentation experiment (CPU is enough; for a GPU install the CUDA build from pytorch.org)
+torch>=2.2
+
+# XYZ-IBD download
+requests>=2.31
+remotezip>=0.12
